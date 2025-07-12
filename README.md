@@ -1,5 +1,5 @@
-  #NFT random swap 
-  
+  # NFT random swap 
+
   The smart contract contains a bunch of different NFTs.
   A user brings his NFT (sends it to the smart contract), with 2.1 TON (2 for admin's profit, 0.1 for gas) in attachment (as fee for swap).
   The smart contract randomly chooses some NFT from the available NFTs (including the newly incoming one) and gives it to the user in exchange for the brought NFT (but occasionally just returns user's NFT in some cases).
