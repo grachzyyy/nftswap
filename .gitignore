@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+.nyc_output/
+coverage/
+.cache/
+.next/
+.turbo/
+
+# Tact
+output/
+*.boc
+*.pkg
+*.abi
+*.fc
+*.fif
+*.tsbuildinfo
+
+# System
+.DS_Store
+.env
+*.log
